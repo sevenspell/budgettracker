@@ -1,45 +1,62 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-color: lavenderblush;
 }
 
 button, input {
   font-size: 100%;
   font-family: Arial;
+  border-radius: 5px;
+  margin: 5px;
 }
 
 table {
   width: 100%;
+  border-radius: 5px;
+  
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 2px solid #DDA0DD;
   text-align: left;
   padding: 8px;
+  border-radius: 5px;
+  margin: 5px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color:	rgb(221,160,221, 0.7);
+  border-radius: 5px;
+  margin: 5px;
 }
 
 .error {
-  color: red;
+  color: #B44;
+  border-radius: 5px;
+  margin: 5px;
 }
 
 .wrapper {
   margin: 0 auto;
   max-width: 825px;
   text-align: center;
+  border-radius: 5px;
+
 }
 
 .total {
   font-size: 150%;
-  text-decoration: underline;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 5px;
 }
 
 .form {
   margin-top: 25px;
   width: 100%;
+  border-radius: 5px;
+
 }
 
 .transactions {
@@ -48,4 +65,5 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+  border-radius: 5px;
 }
