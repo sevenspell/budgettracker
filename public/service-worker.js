@@ -2,16 +2,16 @@ const FILES_TO_CACHE = [
     "/",
     "index.html",
     "assets/css/styles.css",
+    "assets/js/db.js",
     "assets/js/index.js",
-    "dist/app.bundle.js",
     "favicon.ico",
     "manifest.webmanifest",
     "assets/images/icons/icon-192x192.png",
     "assets/images/icons/icon-512x512.png"
   ]
   
-  const CACHE_NAME = "static-cache-v1";
-  const DATA_CACHE_NAME = "data-cache-v1";
+  const CACHE_NAME = "static-cache-v3";
+  const DATA_CACHE_NAME = "data-cache-v3";
   
   // install
   self.addEventListener("install", function(evt) {
