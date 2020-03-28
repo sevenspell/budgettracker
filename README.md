@@ -28,4 +28,4 @@ https://github.com/sevenspell/week18-assignment/blob/master/screenshots/Screensh
 
 
 ## Credits
-I got a deeper understanding of the MVC model from Wagner (https://wagner-lopes.github.io/).
+I got a deeper understanding of the PWA and indexeddb from Wagner (https://wagner-lopes.github.io/).
