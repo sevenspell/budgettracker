@@ -1,20 +1,20 @@
 # week18-assignment - The Budget Tracker App
 
-Github link: https://github.com/sevenspell/week18-assignment  
++ Github link: https://github.com/sevenspell/week18-assignment  
 
-Heroku app link: https://week18budgettracker.herokuapp.com/
++ Heroku app link: https://week18budgettracker.herokuapp.com/
 
 ## Description 
 
 This project is to create an app that allows users to track their incoming and outgoing money flow while they are travelling, regardless of whether they are online or offline. The app utilizes mongodb (while online) and indexeddb (while offline) to record the transactions, and when the user goes back online, all temporary data stored in indexeddb will be uploaded to mongodb for consolidation.
 
 ## Applications Used
-MongoDB / Mongoose
-Express
-Compression
-PWA - webmanifest & service-worker.js
-TinyJPG for image compression
-Minifycode.com for minifying codes
++ MongoDB / Mongoose
++ Express
++ Compression
++ PWA - webmanifest & service-worker.js
++ TinyJPG for image compression
++ Minifycode.com for minifying codes
 
 ## Usage 
 
