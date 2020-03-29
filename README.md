@@ -20,9 +20,9 @@ Minifycode.com for minifying codes
 
 1. Go to Heroku app link: https://week18budgettracker.herokuapp.com/
 <img src="screenshots/Screenshot1.png" width= "300" >
-2. Enter a transaction to start the process. Notice on the top right it indicates 'online'.
+2. Enter a transaction to start the process. 
 <img src="screenshots/Screenshot2.png" width= "300" >
-3. Continue adding as many transactions as user likes. Notice the "total" will change according to their transactions by adding or deducting from the budget.
+3. Continue adding as many transactions as user likes. Notice the "total" will change according to their transactions by adding or deducting from the budget. Notice on the top right, it indicates 'online'.
 <img src="screenshots/Screenshot3.png" width= "300" >
 4. The latest 2 entries were input while offline. Notice on the top left that it indicates 'offline'. The latest 2 entries are recorded in indexedDB instead.
 <img src="screenshots/Screenshot4.png" width= "300" >
