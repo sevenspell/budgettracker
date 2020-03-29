@@ -16,14 +16,16 @@ https://github.com/sevenspell/week18-assignment/blob/master/screenshots/Screensh
 https://github.com/sevenspell/week18-assignment/blob/master/screenshots/Screenshot2.png
 3. Continue adding as many transactions as user likes. Notice the "total" will change according to their transactions by adding or deducting from the budget.
 https://github.com/sevenspell/week18-assignment/blob/master/screenshots/Screenshot3.png
-4. The latest 2 entries were input while offline. Notice on the left that the latest 2 entries are recorded in indexedDB instead.
+4. The latest 2 entries were input while offline. Notice on the top left that it indicates 'offline'. The latest 2 entries are recorded in indexedDB instead.
 https://github.com/sevenspell/week18-assignment/blob/master/screenshots/Screenshot4.png
-5. Once it goes back online, there will be an auto update to mongodb as reflected by "/api/transaction/bulk".
 https://github.com/sevenspell/week18-assignment/blob/master/screenshots/Screenshot5.png
-6. User can continue to enter new transactions, whether online or offline. The switch between online and offline in the app will not be visible to them.
+5. Once it goes back online, there will be an auto update to mongodb as reflected by "/api/transaction/bulk".
 https://github.com/sevenspell/week18-assignment/blob/master/screenshots/Screenshot6.png
-7. App performance and PWA rating are also very high.
+6. User can continue to enter new transactions, whether online or offline. The switch between online and offline in the app will not be visible to them, and the entries are consolidated once online.
 https://github.com/sevenspell/week18-assignment/blob/master/screenshots/Screenshot7.png
+https://github.com/sevenspell/week18-assignment/blob/master/screenshots/Screenshot8.png
+7. App performance and PWA rating are also very high.
+https://github.com/sevenspell/week18-assignment/blob/master/screenshots/Screenshot9.png
 
 
 
