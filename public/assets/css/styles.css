@@ -41,22 +41,22 @@ table {
 }
 
 td {
-	border: 2px solid #FF8C00;
+	/* border: 2px solid #FF8C00; */
 	text-align: left;
 	padding: 8px;
 	border-radius: 5px;
 	margin: 5px
 }
 th {
-	border: 2px solid #FF8C00;
+	/* border: 2px solid #FF8C00; */
 	text-align: left;
 	padding: 8px;
 	border-radius: 5px;
     margin: 5px;
-    background-color: rgb(255,140,0, 0.9);
+    background-color: rgb(32,178,170, 0.5);
 }
 tr:nth-child(even) {
-	background-color: rgb(255,140,0, 0.85);
+	background-color: rgb(0,206,209, 0.3);
 	border-radius: 5px;
 	margin: 5px
 }

@@ -58,7 +58,7 @@ function populateChart() {
                 fill: true,
                 backgroundColor: "#FF8C00",
                 defaultFontColor: "#FFFFFF",
-                borderColor: "#FFFFFF",
+                borderColor: "#000000",
                 data
             }]
         },
@@ -66,22 +66,7 @@ function populateChart() {
             legend: {
                 labels: {
                     fontColor: 'black',
-                },
-                // scales: {
-                //     yAxes: [{
-                //         gridLines: {
-                //         lineColor: "black",
-                //         linewidth: 4
-                //         }
-                //     }],
-                //     xAxes: [{
-                //         gridLines: {
-                //         lineColor: "black",
-                //         linewidth: 4
-                //         }
-                //     }]
-                // }
-
+                }
             }
         }
     });
