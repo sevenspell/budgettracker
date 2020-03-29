@@ -1,6 +1,6 @@
 {
-  "short_name": "TransactionOnTheGo",
-  "name": "Transaction On The Go App",
+  "short_name": "Budget Tracker",
+  "name": "The Budget Tracker App",
   "icons": [
     {
       "src": "./assets/images/icons/icon-192x192.png",
