@@ -1,5 +1,5 @@
 body {
-	font-size: 1em;
+	font-size: 1.3vw;
     font-family: 'Pangolin', cursive;
     background-color: #F0F8FF;
     background-image: url('../images/images/summersunglasses.jpg');
@@ -8,29 +8,25 @@ body {
     background-size: cover;
 }
 .header {
-    font-size: 2em;
+    font-size: 5vw;
     font-family: 'Caveat', cursive;
     /* background-color: rgb(175,238,238, 0.9 ); */
     width: auto;    
     height: 120px;
     margin: 20px;
     border-radius: 5px;
-
-
 }
-
-
 .subheader {
-    font-size: 0.4em;
+    font-size: 2vw;
     font-family: 'Caveat', cursive;
     margin-left: 180px;
     padding-top: -20px;
+    text-align: left;
 }
-
 
 button,
 input {
-	font-size: 100%;
+	font-size: 1vw;
     font-family: 'Pangolin', cursive;
 	border-radius: 5px;
 	margin: 5px
@@ -72,7 +68,7 @@ tr:nth-child(even) {
 	border-radius: 5px
 }
 .total {
-	font-size: 150%;
+	font-size: 2vw;
 	text-decoration: none;
 	border-radius: 5px;
     margin: 20px;
@@ -90,7 +86,7 @@ tr:nth-child(even) {
 }
 
 .tableheader {
-    font-size: 120%;
+    font-size: 1.7vw;
     margin-bottom: 20px;
 }
 .transactions {
