@@ -8,6 +8,8 @@
 
 This project is to create an app that allows users to track their incoming and outgoing money flow while they are travelling, regardless of whether they are online or offline. The app utilizes mongodb (while online) and indexeddb (while offline) to record the transactions, and when the user goes back online, all temporary data stored in indexeddb will be uploaded to mongodb for consolidation.
 
+Note: there is an additional 'clear' button to clear the transaction records. However this function only works when the app is online. When offline, nothing will happen when user clicks on the 'clear' button.
+
 ## Applications Used
 + MongoDB / Mongoose
 + Express
@@ -31,8 +33,13 @@ This project is to create an app that allows users to track their incoming and o
 <img src="screenshots/Screenshot6.png" width= "500" >
 6. User can continue to enter new transactions, whether online or offline. The switch between online and offline in the app will not be visible to them, and the entries are consolidated once online.
 <img src="screenshots/Screenshot7.png" width= "500" >
-7. App performance and PWA rating are also high.
+7. There is a chart at the bottom of the page that tracks budget amount movements.
+<img src="screenshots/Screenshot9.png" width= "500" >
+8. There is also a "clear" button to clear the list and begin again. *note that this function only works when the app is online - it will not work while offline.
+<img src="screenshots/Screenshot10.png" width= "500" >
+9. App performance and PWA rating are also high.
 <img src="screenshots/Screenshot8.png" width= "500" >
+
 
 
 
