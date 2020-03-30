@@ -10,6 +10,8 @@ This project is to create an app that allows users to track their incoming and o
 
 Note: there is an additional 'clear' button to clear the transaction records. However this function only works when the app is online. When offline, nothing will happen when user clicks on the 'clear' button.
 
+The design is also a mobile-first responsive design.
+
 ## Applications Used
 + MongoDB / Mongoose
 + Express
