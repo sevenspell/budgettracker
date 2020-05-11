@@ -1,6 +1,6 @@
 # week18-assignment - The Budget Tracker App
 
-+ Github link: https://github.com/sevenspell/week18-assignment  
++ Github link: https://github.com/sevenspell/budgettracker 
 
 + Heroku app link: https://week18budgettracker.herokuapp.com/
 
